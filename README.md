@@ -1,6 +1,6 @@
 # ai-assistant-customer-service
 
-E2E AI Assistant for Customer Service
+Customer Service AI Assistant for an online retailer.
 
 ## Getting Started
 

@@ -17,7 +17,7 @@ conda init zsh # Optional: Initialize conda for zsh
 conda config --add channels conda-forge # Add conda-forge channel to install tiktoken and python-dotenv
 
 # Create a new conda environment "ai-dev"
-conda create -n ai-dev python=3.11 openai tiktoken python-dotenv python-dotenv-with-cli
+conda create -n ai-dev python=3.11 openai tiktoken python-dotenv python-dotenv-with-cli panel jupyter_bokeh
 conda info --envs
 
 # Activate the conda environment

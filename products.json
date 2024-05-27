@@ -109,7 +109,6 @@
     "description": "Experience true wireless freedom with these comfortable earbuds.",
     "price": 99.99
   },
-
   "CineView 4K TV": {
     "name": "CineView 4K TV",
     "category": "Televisions and Home Theater Systems",
@@ -165,7 +164,6 @@
     "description": "Experience true blacks and vibrant colors with this OLED TV.",
     "price": 1499.99
   },
-
   "GameSphere X": {
     "name": "GameSphere X",
     "category": "Gaming Consoles and Accessories",
@@ -221,7 +219,6 @@
     "description": "Step into the world of virtual reality with this comfortable VR headset.",
     "price": 299.99
   },
-
   "AudioPhonic Noise-Canceling Headphones": {
     "name": "AudioPhonic Noise-Canceling Headphones",
     "category": "Audio Equipment",
@@ -277,7 +274,6 @@
     "description": "Rediscover your vinyl collection with this modern turntable.",
     "price": 149.99
   },
-
   "FotoSnap DSLR Camera": {
     "name": "FotoSnap DSLR Camera",
     "category": "Cameras and Camcorders",

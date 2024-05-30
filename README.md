@@ -8,6 +8,7 @@ Customer Service AI Assistant for an online retailer.
 
 - [Conda](https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 - [OpenAI API Key](https://platform.openai.com/api-keys/)
+- [DeepLearing.ai](https://learn.deeplearning.ai/courses/chatgpt-building-system/)
 
 ### Installation (using conda)
 
